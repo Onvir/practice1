@@ -190,3 +190,42 @@ button {
     flex-direction: column;
   }
 }
+
+/* blog Button Area */
+.blog-field{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.blog ,a{
+  text-decoration: none!important;
+  color: aliceblue;
+}
+/* Blog button area end */
+
+/* blog page start */
+.hdiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+#hh1{
+  font-size: 100px;
+}
+
+.qdiv{
+  margin: 10px;
+  padding: 10px;
+  border: 2px solid white;
+  border-radius: 5px;
+  color: white;
+}
+.qdiv, h1{
+  font-size: 30px;
+}
+.qdiv, p{
+  font-size: 20px;
+}
+
+/* blog page end */
